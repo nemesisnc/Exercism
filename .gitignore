@@ -1,0 +1,8 @@
+*/*/*.md
+*/*/.vscode/
+*/*/.exercism/
+*/*/.articles/
+*/*/bin/
+*/*/obj/
+fsharp/
+*Tests.cs
